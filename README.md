@@ -24,7 +24,7 @@ This project is a fully functional JavaScript compiler built using HTML, CSS, an
 ## 📌 How to Use
 1. **Clone or Download** the repository:
    ```sh
-   git clone https://github.com/your-username/js-compiler.git
+   git clone https://github.com/iamajk/js-compiler.git
    cd js-compiler
    ```
 2. Open the `index.html` file in any modern web browser.
